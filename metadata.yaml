@@ -1,16 +1,21 @@
 _repo: Peggy-Goes-Straw-Hat-Peggy-Lane-Theater-Stories-3_55826
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Leone, Sergio
     gutenberg_agent_id: '48534'
     url: http://www.gutenberg.org/2009/agents/48534
+covers:
+- cover_type: archival
+  image_path: 55826-h/images/cover.jpg
 creator:
   author:
     agent_name: Hughes, Virginia
     gutenberg_agent_id: '48533'
     url: http://www.gutenberg.org/2009/agents/48533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55826#Peggy-Goes-Straw-Hat-Peggy-Lane-Theater-Stories-3
 gutenberg_issued: '2017-10-27'
 gutenberg_type: Text
 identifiers:
